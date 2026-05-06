@@ -1,0 +1,69 @@
+id;Watched date;Name;Year;Genres;Runtime;Female directed;Country;Rewatch?;Like?;Rating;Mean rating;Total likes;Total reviews
+1;22/1/23;Avatar: The Way of Water;2022;Action, Adventure, Science Fiction;192;FALSO;USA;FALSO;FALSO;3;3,6;473089;289785
+2;22/1/23;Black Panther: Wakanda Forever;2022;Action, Adventure, Science Fiction;161;FALSO;USA;FALSO;FALSO;4;3,4;261707;167463
+3;22/1/23;The Blair Witch Project;1999;Mystery, Horror;81;VERDADERO;USA;FALSO;FALSO;2;3,3;156479;66860
+4;25/1/23;Whiplash;2014;Drama, Music;107;FALSO;USA;FALSO;VERDADERO;5;4,4;1327228;313085
+5;22/1/23;Stand by Me;1986;Drama, Crime;89;FALSO;USA;FALSO;FALSO;4;4,1;276618;71326
+6;22/1/23;The Menu;2022;Comedy, Thriller, Horror;107;FALSO;USA;FALSO;FALSO;4,5;3,5;650184;407700
+7;29/1/23;The Fallout;2021;Drama;92;VERDADERO;USA;FALSO;FALSO;2;3,5;64562;45983
+8;26/1/23;The Social Network;2010;Drama;120;FALSO;USA;FALSO;FALSO;3,5;3,9;758117;172772
+9;31/1/23;Beautiful Boy;2018;Drama;120;FALSO;USA;FALSO;FALSO;4;3,9;262353;105031
+10;4/2/23;Barbie: Princess Charm School;2011;Fantasy, Family, Animation;79;FALSO;USA, Canada;VERDADERO;FALSO;4;3,8;27192;12159
+11;18/2/23;Harry Potter and the Philosopher's Stone;2001;Adventure, Fantasy;152;FALSO;UK, USA;VERDADERO;FALSO;5;3,8;650208;106471
+12;19/2/23;Harry Potter and the Chamber of Secrets;2002;Adventure, Fantasy;161;FALSO;UK, USA;VERDADERO;FALSO;4,5;3,6;479485;77236
+13;19/2/23;Harry Potter and the Prisoner of Azkaban;2004;Adventure, Fantasy;142;FALSO;UK, USA;VERDADERO;FALSO;5;4,1;755861;107174
+14;26/2/23;American Pie;1999;Romance, Comedy;95;FALSO;USA;VERDADERO;FALSO;3;3,1;66913;21396
+15;26/2/23;The Black Phone;2021;Thriller, Crime, Drama, Horror;103;FALSO;USA;FALSO;FALSO;3,5;3,3;192749;131890
+16;20/2/23;Harry Potter and the Goblet of Fire;2005;Adventure, Fantasy;157;FALSO;UK, USA;VERDADERO;FALSO;4,5;3,8;507789;85025
+17;20/2/23;Harry Potter and the Order of the Phoenix;2007;Adventure, Fantasy;138;FALSO;UK, USA;VERDADERO;FALSO;4,5;3,6;422870;69191
+18;26/2/23;Harry Potter and the Half-Blood Prince;2009;Adventure, Fantasy;153;FALSO;UK, USA;VERDADERO;FALSO;3,5;3,7;401955;66046
+19;21/2/23;Harry Potter and the Deathly Hallows: Part 1;2010;Adventure, Fantasy;146;FALSO;UK, USA;VERDADERO;FALSO;5;3,7;400816;57483
+20;21/2/23;Harry Potter and the Deathly Hallows: Part 2;2011;Adventure, Fantasy;130;FALSO;UK, USA;VERDADERO;FALSO;4,5;4;478859;64319
+21;12/3/23;Scream VI;2023;Crime, Horror, Thriller;123;FALSO;USA;FALSO;FALSO;4,5;3,4;186506;172742
+22;22/1/23;Everything Everywhere All at Once;2022;Science Fiction, Action, Adventure;139;FALSO;USA;FALSO;FALSO;4,5;4,3;1432657;587270
+23;13/4/23;John Wick: Chapter 4;2023;Action, Thriller, Crime;169;FALSO;Germany, USA;FALSO;FALSO;3,5;3,9;258098;171042
+24;2/5/23;Spencer;2021;Drama, History;111;FALSO;Chile, Germany, UK, USA;FALSO;FALSO;3,5;3,7;124062;93677
+25;2/5/23;A Quiet Place Part II;2020;Horror, Science Fiction, Thriller;97;FALSO;USA;FALSO;FALSO;5;3,4;182024;89176
+26;3/5/23;Hunger;2023;Drama;145;FALSO;Thailand;FALSO;FALSO;4,5;3,2;7872;10991
+27;12/5/23;Spotlight;2015;History, Drama;129;FALSO;Canada, USA;FALSO;FALSO;5;4,1;168523;35788
+28;18/6/23;The Little Mermaid;2023;Family, Fantasy, Romance, Adventure;135;FALSO;USA;FALSO;FALSO;4;3,2;122610;140405
+29;30/5/23;Ant-Man and the Wasp: Quantumania;2023;Adventure, Science Fiction, Action;124;FALSO;USA;FALSO;FALSO;3;2,3;87411;161946
+30;2/7/23;The Hunger Games;2012;Fantasy, Science Fiction;142;FALSO;USA;VERDADERO;FALSO;5;3,6;588028;160263
+31;2/7/23;The Hunger Games: Catching Fire;2013;Science Fiction, Action, Adventure;146;FALSO;USA;VERDADERO;VERDADERO;5;3,8;458777;145994
+32;4/7/23;The Hunger Games: Mockingjay Ð Part 1;2014;Thriller, Science Fiction, Adventure;123;FALSO;USA;VERDADERO;FALSO;5;3,2;247128;88783
+33;6/7/23;The Hunger Games: Mockingjay Ð Part 2;2015;Science Fiction, Action, Adventure;137;FALSO;Germany, USA;VERDADERO;FALSO;5;3,3;231296;89651
+34;6/7/23;Spider-Man: Into the Spider-Verse;2018;Adventure, Animation, Science Fiction, Action;117;FALSO;USA;FALSO;FALSO;4,5;4,4;1710374;274599
+35;6/7/23;Spider-Man: Across the Spider-Verse;2023;Adventure, Animation, Science Fiction, Action;144;FALSO;USA;FALSO;FALSO;5;4,5;1077277;509835
+36;22/7/23;Oppenheimer;2023;Drama, History;180;FALSO;UK, USA;FALSO;FALSO;3,5;4,2;1004775;606348
+37;25/7/23;Barbie;2023;Comedy, Adventure;110;VERDADERO;UK, USA;FALSO;FALSO;5;3,9;1520735;879443
+38;23/8/23;The Other Woman;2014;Comedy, Romance;109;FALSO;USA;VERDADERO;FALSO;5;2,9;24970;14293
+39;19/9/23;Red, White & Royal Blue;2023;Comedy, Romance;118;FALSO;USA;FALSO;FALSO;3,5;3,1;119339;138201
+40;19/9/23;The Nun II;2023;Mystery, Horror;105;FALSO;USA;FALSO;FALSO;5;2,3;30545;66112
+41;19/10/23;The Help;2011;Drama;146;FALSO;India, United Arab Emirates, USA;VERDADERO;FALSO;5;3,8;144727;27270
+42;20/10/23;Girl, Interrupted;1999;Drama;127;FALSO;USA;FALSO;FALSO;4;3,9;317059;106313
+43;28/10/23;No Hard Feelings;2023;Comedy, Romance;103;FALSO;USA;FALSO;FALSO;4;3,1;201200;214801
+44;26/1/24;Poor Things;2023;Romance, Science Fiction, Comedy;141;FALSO;Ireland, UK, USA;FALSO;FALSO;5;4,1;641212;507130
+45;7/1/24;Society of the Snow;2023;History, Drama;144;FALSO;Spain, USA;FALSO;FALSO;4;4,1;290513;191596
+46;28/12/23;Priscilla;2023;Romance, Music, Drama;113;VERDADERO;Italy, USA;FALSO;FALSO;5;3,6;223387;226175
+47;3/2/24;Anyone But You;2023;Romance, Comedy;104;FALSO;USA;FALSO;FALSO;4;3;200158;261432
+48;14/1/24;Before Sunrise;1995;Romance, Drama;101;FALSO;Austria, USA;FALSO;FALSO;4,5;4,3;407882;164669
+49;9/2/24;Drop Dead Gorgeous;1999;Comedy;98;FALSO;USA;FALSO;FALSO;4,5;3,8;30985;19890
+50;18/2/24;Perfect Days;2023;Drama;125;FALSO;Germany, Japan;FALSO;FALSO;2,5;4,3;131475;86910
+51;19/2/24;The Tale;2018;Drama, Mystery;114;VERDADERO;Germany, USA;FALSO;FALSO;4;3,9;9765;5903
+52;20/2/24;American Hustle;2013;Crime, Drama;138;FALSO;USA;FALSO;FALSO;4;3,3;78923;21792
+53;14/2/24;Mean Girls;2024;Comedy;112;VERDADERO;USA;FALSO;FALSO;3;2,7;92803;190237
+54;21/2/24;Uptown Girls;2003;Drama, Comedy;92;FALSO;USA;FALSO;FALSO;4;3,8;67997;34568
+55;22/2/24;Orphan;2009;Horror, Mystery, Thriller;123;FALSO;Canada, France, Germany, USA;FALSO;FALSO;5;3,3;88760;36363
+56;23/2/24;Bodies Bodies Bodies;2022;Mystery, Horror, Comedy;95;VERDADERO;USA;FALSO;FALSO;5;3,3;220333;240337
+57;23/2/24;Step Up;2006;Romance, Crime, Drama, Music;104;VERDADERO;USA;FALSO;FALSO;4,5;3;23630;8670
+58;25/2/24;Emma.;2020;Romance, Comedy;124;VERDADERO;UK;FALSO;FALSO;4,5;3,7;132620;73703
+59;26/2/24;Get a Clue;2002;Comedy, Mystery, TV Movie, Family;84;VERDADERO;USA;FALSO;FALSO;3;2,8;4085;2954
+60;27/2/24;When Evil Lurks;2023;Horror, Thriller;99;FALSO;Argentina, USA;FALSO;FALSO;3,5;3,6;55437;51283
+61;28/2/24;X;2022;Mystery, Thriller, Horror;105;FALSO;USA;FALSO;FALSO;4,5;3,4;347018;261904
+62;3/3/24;Ferrari;2023;History, Drama;130;FALSO;UK, USA;FALSO;FALSO;2;3,2;38195;56375
+63;9/3/24;Knowing;2009;Mystery, Science Fiction, Thriller, Action;121;FALSO;UK, USA, Australia;VERDADERO;FALSO;4;2,6;15242;9833
+64;10/3/24;Past Lives;2023;Drama, Romance;116;VERDADERO;South Korea, USA;FALSO;FALSO;4,5;4,2;431135;320320
+65;23/3/24;All of Us Strangers;2023;Romance, Drama, Fantasy;105;FALSO;UK, USA;FALSO;FALSO;5;4;150036;158559
+66;31/3/24;The Joy Luck Club;1993;Drama;139;FALSO;USA, China;FALSO;FALSO;5;3,9;6372;3318
+67;1/4/24;One Life;2023;Drama, History, War;110;FALSO;Australia, UK, USA;FALSO;FALSO;4;3,6;13926;13051
+68;1/4/24;The Deep End of the Ocean;1999;Mystery, Drama;106;FALSO;USA;FALSO;FALSO;3;2,9;2909;3044

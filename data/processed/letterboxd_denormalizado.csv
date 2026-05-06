@@ -1,0 +1,248 @@
+id;Watched date;Name;Year;Genre;Runtime;Female directed;Country;Rewatch?;Like?;Rating;Mean rating;Total likes;Total reviews
+1;22/1/23;Avatar: The Way of Water;2022;Action;192;False;USA;False;False;3;3,6;473089;289785
+1;22/1/23;Avatar: The Way of Water;2022;Adventure;192;False;USA;False;False;3;3,6;473089;289785
+1;22/1/23;Avatar: The Way of Water;2022;Science Fiction;192;False;USA;False;False;3;3,6;473089;289785
+2;22/1/23;Black Panther: Wakanda Forever;2022;Action;161;False;USA;False;False;4;3,4;261707;167463
+2;22/1/23;Black Panther: Wakanda Forever;2022;Adventure;161;False;USA;False;False;4;3,4;261707;167463
+2;22/1/23;Black Panther: Wakanda Forever;2022;Science Fiction;161;False;USA;False;False;4;3,4;261707;167463
+3;22/1/23;The Blair Witch Project;1999;Mystery;81;True;USA;False;False;2;3,3;156479;66860
+3;22/1/23;The Blair Witch Project;1999;Horror;81;True;USA;False;False;2;3,3;156479;66860
+4;25/1/23;Whiplash;2014;Drama;107;False;USA;False;True;5;4,4;1327228;313085
+4;25/1/23;Whiplash;2014;Music;107;False;USA;False;True;5;4,4;1327228;313085
+5;22/1/23;Stand by Me;1986;Drama;89;False;USA;False;False;4;4,1;276618;71326
+5;22/1/23;Stand by Me;1986;Crime;89;False;USA;False;False;4;4,1;276618;71326
+6;22/1/23;The Menu;2022;Comedy;107;False;USA;False;False;4,5;3,5;650184;407700
+6;22/1/23;The Menu;2022;Thriller;107;False;USA;False;False;4,5;3,5;650184;407700
+6;22/1/23;The Menu;2022;Horror;107;False;USA;False;False;4,5;3,5;650184;407700
+7;29/1/23;The Fallout;2021;Drama;92;True;USA;False;False;2;3,5;64562;45983
+8;26/1/23;The Social Network;2010;Drama;120;False;USA;False;False;3,5;3,9;758117;172772
+9;31/1/23;Beautiful Boy;2018;Drama;120;False;USA;False;False;4;3,9;262353;105031
+10;4/2/23;Barbie: Princess Charm School;2011;Fantasy;79;False;USA;True;False;4;3,8;27192;12159
+10;4/2/23;Barbie: Princess Charm School;2011;Fantasy;79;False;Canada;True;False;4;3,8;27192;12159
+10;4/2/23;Barbie: Princess Charm School;2011;Family;79;False;USA;True;False;4;3,8;27192;12159
+10;4/2/23;Barbie: Princess Charm School;2011;Family;79;False;Canada;True;False;4;3,8;27192;12159
+10;4/2/23;Barbie: Princess Charm School;2011;Animation;79;False;USA;True;False;4;3,8;27192;12159
+10;4/2/23;Barbie: Princess Charm School;2011;Animation;79;False;Canada;True;False;4;3,8;27192;12159
+11;18/2/23;Harry Potter and the Philosopher's Stone;2001;Adventure;152;False;UK;True;False;5;3,8;650208;106471
+11;18/2/23;Harry Potter and the Philosopher's Stone;2001;Adventure;152;False;USA;True;False;5;3,8;650208;106471
+11;18/2/23;Harry Potter and the Philosopher's Stone;2001;Fantasy;152;False;UK;True;False;5;3,8;650208;106471
+11;18/2/23;Harry Potter and the Philosopher's Stone;2001;Fantasy;152;False;USA;True;False;5;3,8;650208;106471
+12;19/2/23;Harry Potter and the Chamber of Secrets;2002;Adventure;161;False;UK;True;False;4,5;3,6;479485;77236
+12;19/2/23;Harry Potter and the Chamber of Secrets;2002;Adventure;161;False;USA;True;False;4,5;3,6;479485;77236
+12;19/2/23;Harry Potter and the Chamber of Secrets;2002;Fantasy;161;False;UK;True;False;4,5;3,6;479485;77236
+12;19/2/23;Harry Potter and the Chamber of Secrets;2002;Fantasy;161;False;USA;True;False;4,5;3,6;479485;77236
+13;19/2/23;Harry Potter and the Prisoner of Azkaban;2004;Adventure;142;False;UK;True;False;5;4,1;755861;107174
+13;19/2/23;Harry Potter and the Prisoner of Azkaban;2004;Adventure;142;False;USA;True;False;5;4,1;755861;107174
+13;19/2/23;Harry Potter and the Prisoner of Azkaban;2004;Fantasy;142;False;UK;True;False;5;4,1;755861;107174
+13;19/2/23;Harry Potter and the Prisoner of Azkaban;2004;Fantasy;142;False;USA;True;False;5;4,1;755861;107174
+14;26/2/23;American Pie;1999;Romance;95;False;USA;True;False;3;3,1;66913;21396
+14;26/2/23;American Pie;1999;Comedy;95;False;USA;True;False;3;3,1;66913;21396
+15;26/2/23;The Black Phone;2021;Thriller;103;False;USA;False;False;3,5;3,3;192749;131890
+15;26/2/23;The Black Phone;2021;Crime;103;False;USA;False;False;3,5;3,3;192749;131890
+15;26/2/23;The Black Phone;2021;Drama;103;False;USA;False;False;3,5;3,3;192749;131890
+15;26/2/23;The Black Phone;2021;Horror;103;False;USA;False;False;3,5;3,3;192749;131890
+16;20/2/23;Harry Potter and the Goblet of Fire;2005;Adventure;157;False;UK;True;False;4,5;3,8;507789;85025
+16;20/2/23;Harry Potter and the Goblet of Fire;2005;Adventure;157;False;USA;True;False;4,5;3,8;507789;85025
+16;20/2/23;Harry Potter and the Goblet of Fire;2005;Fantasy;157;False;UK;True;False;4,5;3,8;507789;85025
+16;20/2/23;Harry Potter and the Goblet of Fire;2005;Fantasy;157;False;USA;True;False;4,5;3,8;507789;85025
+17;20/2/23;Harry Potter and the Order of the Phoenix;2007;Adventure;138;False;UK;True;False;4,5;3,6;422870;69191
+17;20/2/23;Harry Potter and the Order of the Phoenix;2007;Adventure;138;False;USA;True;False;4,5;3,6;422870;69191
+17;20/2/23;Harry Potter and the Order of the Phoenix;2007;Fantasy;138;False;UK;True;False;4,5;3,6;422870;69191
+17;20/2/23;Harry Potter and the Order of the Phoenix;2007;Fantasy;138;False;USA;True;False;4,5;3,6;422870;69191
+18;26/2/23;Harry Potter and the Half-Blood Prince;2009;Adventure;153;False;UK;True;False;3,5;3,7;401955;66046
+18;26/2/23;Harry Potter and the Half-Blood Prince;2009;Adventure;153;False;USA;True;False;3,5;3,7;401955;66046
+18;26/2/23;Harry Potter and the Half-Blood Prince;2009;Fantasy;153;False;UK;True;False;3,5;3,7;401955;66046
+18;26/2/23;Harry Potter and the Half-Blood Prince;2009;Fantasy;153;False;USA;True;False;3,5;3,7;401955;66046
+19;21/2/23;Harry Potter and the Deathly Hallows: Part 1;2010;Adventure;146;False;UK;True;False;5;3,7;400816;57483
+19;21/2/23;Harry Potter and the Deathly Hallows: Part 1;2010;Adventure;146;False;USA;True;False;5;3,7;400816;57483
+19;21/2/23;Harry Potter and the Deathly Hallows: Part 1;2010;Fantasy;146;False;UK;True;False;5;3,7;400816;57483
+19;21/2/23;Harry Potter and the Deathly Hallows: Part 1;2010;Fantasy;146;False;USA;True;False;5;3,7;400816;57483
+20;21/2/23;Harry Potter and the Deathly Hallows: Part 2;2011;Adventure;130;False;UK;True;False;4,5;4;478859;64319
+20;21/2/23;Harry Potter and the Deathly Hallows: Part 2;2011;Adventure;130;False;USA;True;False;4,5;4;478859;64319
+20;21/2/23;Harry Potter and the Deathly Hallows: Part 2;2011;Fantasy;130;False;UK;True;False;4,5;4;478859;64319
+20;21/2/23;Harry Potter and the Deathly Hallows: Part 2;2011;Fantasy;130;False;USA;True;False;4,5;4;478859;64319
+21;12/3/23;Scream VI;2023;Crime;123;False;USA;False;False;4,5;3,4;186506;172742
+21;12/3/23;Scream VI;2023;Horror;123;False;USA;False;False;4,5;3,4;186506;172742
+21;12/3/23;Scream VI;2023;Thriller;123;False;USA;False;False;4,5;3,4;186506;172742
+22;22/1/23;Everything Everywhere All at Once;2022;Science Fiction;139;False;USA;False;False;4,5;4,3;1432657;587270
+22;22/1/23;Everything Everywhere All at Once;2022;Action;139;False;USA;False;False;4,5;4,3;1432657;587270
+22;22/1/23;Everything Everywhere All at Once;2022;Adventure;139;False;USA;False;False;4,5;4,3;1432657;587270
+23;13/4/23;John Wick: Chapter 4;2023;Action;169;False;Germany;False;False;3,5;3,9;258098;171042
+23;13/4/23;John Wick: Chapter 4;2023;Action;169;False;USA;False;False;3,5;3,9;258098;171042
+23;13/4/23;John Wick: Chapter 4;2023;Thriller;169;False;Germany;False;False;3,5;3,9;258098;171042
+23;13/4/23;John Wick: Chapter 4;2023;Thriller;169;False;USA;False;False;3,5;3,9;258098;171042
+23;13/4/23;John Wick: Chapter 4;2023;Crime;169;False;Germany;False;False;3,5;3,9;258098;171042
+23;13/4/23;John Wick: Chapter 4;2023;Crime;169;False;USA;False;False;3,5;3,9;258098;171042
+24;2/5/23;Spencer;2021;Drama;111;False;Chile;False;False;3,5;3,7;124062;93677
+24;2/5/23;Spencer;2021;Drama;111;False;Germany;False;False;3,5;3,7;124062;93677
+24;2/5/23;Spencer;2021;Drama;111;False;UK;False;False;3,5;3,7;124062;93677
+24;2/5/23;Spencer;2021;Drama;111;False;USA;False;False;3,5;3,7;124062;93677
+24;2/5/23;Spencer;2021;History;111;False;Chile;False;False;3,5;3,7;124062;93677
+24;2/5/23;Spencer;2021;History;111;False;Germany;False;False;3,5;3,7;124062;93677
+24;2/5/23;Spencer;2021;History;111;False;UK;False;False;3,5;3,7;124062;93677
+24;2/5/23;Spencer;2021;History;111;False;USA;False;False;3,5;3,7;124062;93677
+25;2/5/23;A Quiet Place Part II;2020;Horror;97;False;USA;False;False;5;3,4;182024;89176
+25;2/5/23;A Quiet Place Part II;2020;Science Fiction;97;False;USA;False;False;5;3,4;182024;89176
+25;2/5/23;A Quiet Place Part II;2020;Thriller;97;False;USA;False;False;5;3,4;182024;89176
+26;3/5/23;Hunger;2023;Drama;145;False;Thailand;False;False;4,5;3,2;7872;10991
+27;12/5/23;Spotlight;2015;History;129;False;Canada;False;False;5;4,1;168523;35788
+27;12/5/23;Spotlight;2015;History;129;False;USA;False;False;5;4,1;168523;35788
+27;12/5/23;Spotlight;2015;Drama;129;False;Canada;False;False;5;4,1;168523;35788
+27;12/5/23;Spotlight;2015;Drama;129;False;USA;False;False;5;4,1;168523;35788
+28;18/6/23;The Little Mermaid;2023;Family;135;False;USA;False;False;4;3,2;122610;140405
+28;18/6/23;The Little Mermaid;2023;Fantasy;135;False;USA;False;False;4;3,2;122610;140405
+28;18/6/23;The Little Mermaid;2023;Romance;135;False;USA;False;False;4;3,2;122610;140405
+28;18/6/23;The Little Mermaid;2023;Adventure;135;False;USA;False;False;4;3,2;122610;140405
+29;30/5/23;Ant-Man and the Wasp: Quantumania;2023;Adventure;124;False;USA;False;False;3;2,3;87411;161946
+29;30/5/23;Ant-Man and the Wasp: Quantumania;2023;Science Fiction;124;False;USA;False;False;3;2,3;87411;161946
+29;30/5/23;Ant-Man and the Wasp: Quantumania;2023;Action;124;False;USA;False;False;3;2,3;87411;161946
+30;2/7/23;The Hunger Games;2012;Fantasy;142;False;USA;True;False;5;3,6;588028;160263
+30;2/7/23;The Hunger Games;2012;Science Fiction;142;False;USA;True;False;5;3,6;588028;160263
+31;2/7/23;The Hunger Games: Catching Fire;2013;Science Fiction;146;False;USA;True;True;5;3,8;458777;145994
+31;2/7/23;The Hunger Games: Catching Fire;2013;Action;146;False;USA;True;True;5;3,8;458777;145994
+31;2/7/23;The Hunger Games: Catching Fire;2013;Adventure;146;False;USA;True;True;5;3,8;458777;145994
+32;4/7/23;The Hunger Games: Mockingjay Ð Part 1;2014;Thriller;123;False;USA;True;False;5;3,2;247128;88783
+32;4/7/23;The Hunger Games: Mockingjay Ð Part 1;2014;Science Fiction;123;False;USA;True;False;5;3,2;247128;88783
+32;4/7/23;The Hunger Games: Mockingjay Ð Part 1;2014;Adventure;123;False;USA;True;False;5;3,2;247128;88783
+33;6/7/23;The Hunger Games: Mockingjay Ð Part 2;2015;Science Fiction;137;False;Germany;True;False;5;3,3;231296;89651
+33;6/7/23;The Hunger Games: Mockingjay Ð Part 2;2015;Science Fiction;137;False;USA;True;False;5;3,3;231296;89651
+33;6/7/23;The Hunger Games: Mockingjay Ð Part 2;2015;Action;137;False;Germany;True;False;5;3,3;231296;89651
+33;6/7/23;The Hunger Games: Mockingjay Ð Part 2;2015;Action;137;False;USA;True;False;5;3,3;231296;89651
+33;6/7/23;The Hunger Games: Mockingjay Ð Part 2;2015;Adventure;137;False;Germany;True;False;5;3,3;231296;89651
+33;6/7/23;The Hunger Games: Mockingjay Ð Part 2;2015;Adventure;137;False;USA;True;False;5;3,3;231296;89651
+34;6/7/23;Spider-Man: Into the Spider-Verse;2018;Adventure;117;False;USA;False;False;4,5;4,4;1710374;274599
+34;6/7/23;Spider-Man: Into the Spider-Verse;2018;Animation;117;False;USA;False;False;4,5;4,4;1710374;274599
+34;6/7/23;Spider-Man: Into the Spider-Verse;2018;Science Fiction;117;False;USA;False;False;4,5;4,4;1710374;274599
+34;6/7/23;Spider-Man: Into the Spider-Verse;2018;Action;117;False;USA;False;False;4,5;4,4;1710374;274599
+35;6/7/23;Spider-Man: Across the Spider-Verse;2023;Adventure;144;False;USA;False;False;5;4,5;1077277;509835
+35;6/7/23;Spider-Man: Across the Spider-Verse;2023;Animation;144;False;USA;False;False;5;4,5;1077277;509835
+35;6/7/23;Spider-Man: Across the Spider-Verse;2023;Science Fiction;144;False;USA;False;False;5;4,5;1077277;509835
+35;6/7/23;Spider-Man: Across the Spider-Verse;2023;Action;144;False;USA;False;False;5;4,5;1077277;509835
+36;22/7/23;Oppenheimer;2023;Drama;180;False;UK;False;False;3,5;4,2;1004775;606348
+36;22/7/23;Oppenheimer;2023;Drama;180;False;USA;False;False;3,5;4,2;1004775;606348
+36;22/7/23;Oppenheimer;2023;History;180;False;UK;False;False;3,5;4,2;1004775;606348
+36;22/7/23;Oppenheimer;2023;History;180;False;USA;False;False;3,5;4,2;1004775;606348
+37;25/7/23;Barbie;2023;Comedy;110;True;UK;False;False;5;3,9;1520735;879443
+37;25/7/23;Barbie;2023;Comedy;110;True;USA;False;False;5;3,9;1520735;879443
+37;25/7/23;Barbie;2023;Adventure;110;True;UK;False;False;5;3,9;1520735;879443
+37;25/7/23;Barbie;2023;Adventure;110;True;USA;False;False;5;3,9;1520735;879443
+38;23/8/23;The Other Woman;2014;Comedy;109;False;USA;True;False;5;2,9;24970;14293
+38;23/8/23;The Other Woman;2014;Romance;109;False;USA;True;False;5;2,9;24970;14293
+39;19/9/23;Red, White & Royal Blue;2023;Comedy;118;False;USA;False;False;3,5;3,1;119339;138201
+39;19/9/23;Red, White & Royal Blue;2023;Romance;118;False;USA;False;False;3,5;3,1;119339;138201
+40;19/9/23;The Nun II;2023;Mystery;105;False;USA;False;False;5;2,3;30545;66112
+40;19/9/23;The Nun II;2023;Horror;105;False;USA;False;False;5;2,3;30545;66112
+41;19/10/23;The Help;2011;Drama;146;False;India;True;False;5;3,8;144727;27270
+41;19/10/23;The Help;2011;Drama;146;False;United Arab Emirates;True;False;5;3,8;144727;27270
+41;19/10/23;The Help;2011;Drama;146;False;USA;True;False;5;3,8;144727;27270
+42;20/10/23;Girl, Interrupted;1999;Drama;127;False;USA;False;False;4;3,9;317059;106313
+43;28/10/23;No Hard Feelings;2023;Comedy;103;False;USA;False;False;4;3,1;201200;214801
+43;28/10/23;No Hard Feelings;2023;Romance;103;False;USA;False;False;4;3,1;201200;214801
+44;26/1/24;Poor Things;2023;Romance;141;False;Ireland;False;False;5;4,1;641212;507130
+44;26/1/24;Poor Things;2023;Romance;141;False;UK;False;False;5;4,1;641212;507130
+44;26/1/24;Poor Things;2023;Romance;141;False;USA;False;False;5;4,1;641212;507130
+44;26/1/24;Poor Things;2023;Science Fiction;141;False;Ireland;False;False;5;4,1;641212;507130
+44;26/1/24;Poor Things;2023;Science Fiction;141;False;UK;False;False;5;4,1;641212;507130
+44;26/1/24;Poor Things;2023;Science Fiction;141;False;USA;False;False;5;4,1;641212;507130
+44;26/1/24;Poor Things;2023;Comedy;141;False;Ireland;False;False;5;4,1;641212;507130
+44;26/1/24;Poor Things;2023;Comedy;141;False;UK;False;False;5;4,1;641212;507130
+44;26/1/24;Poor Things;2023;Comedy;141;False;USA;False;False;5;4,1;641212;507130
+45;7/1/24;Society of the Snow;2023;History;144;False;Spain;False;False;4;4,1;290513;191596
+45;7/1/24;Society of the Snow;2023;History;144;False;USA;False;False;4;4,1;290513;191596
+45;7/1/24;Society of the Snow;2023;Drama;144;False;Spain;False;False;4;4,1;290513;191596
+45;7/1/24;Society of the Snow;2023;Drama;144;False;USA;False;False;4;4,1;290513;191596
+46;28/12/23;Priscilla;2023;Romance;113;True;Italy;False;False;5;3,6;223387;226175
+46;28/12/23;Priscilla;2023;Romance;113;True;USA;False;False;5;3,6;223387;226175
+46;28/12/23;Priscilla;2023;Music;113;True;Italy;False;False;5;3,6;223387;226175
+46;28/12/23;Priscilla;2023;Music;113;True;USA;False;False;5;3,6;223387;226175
+46;28/12/23;Priscilla;2023;Drama;113;True;Italy;False;False;5;3,6;223387;226175
+46;28/12/23;Priscilla;2023;Drama;113;True;USA;False;False;5;3,6;223387;226175
+47;3/2/24;Anyone But You;2023;Romance;104;False;USA;False;False;4;3;200158;261432
+47;3/2/24;Anyone But You;2023;Comedy;104;False;USA;False;False;4;3;200158;261432
+48;14/1/24;Before Sunrise;1995;Romance;101;False;Austria;False;False;4,5;4,3;407882;164669
+48;14/1/24;Before Sunrise;1995;Romance;101;False;USA;False;False;4,5;4,3;407882;164669
+48;14/1/24;Before Sunrise;1995;Drama;101;False;Austria;False;False;4,5;4,3;407882;164669
+48;14/1/24;Before Sunrise;1995;Drama;101;False;USA;False;False;4,5;4,3;407882;164669
+49;9/2/24;Drop Dead Gorgeous;1999;Comedy;98;False;USA;False;False;4,5;3,8;30985;19890
+50;18/2/24;Perfect Days;2023;Drama;125;False;Germany;False;False;2,5;4,3;131475;86910
+50;18/2/24;Perfect Days;2023;Drama;125;False;Japan;False;False;2,5;4,3;131475;86910
+51;19/2/24;The Tale;2018;Drama;114;True;Germany;False;False;4;3,9;9765;5903
+51;19/2/24;The Tale;2018;Drama;114;True;USA;False;False;4;3,9;9765;5903
+51;19/2/24;The Tale;2018;Mystery;114;True;Germany;False;False;4;3,9;9765;5903
+51;19/2/24;The Tale;2018;Mystery;114;True;USA;False;False;4;3,9;9765;5903
+52;20/2/24;American Hustle;2013;Crime;138;False;USA;False;False;4;3,3;78923;21792
+52;20/2/24;American Hustle;2013;Drama;138;False;USA;False;False;4;3,3;78923;21792
+53;14/2/24;Mean Girls;2024;Comedy;112;True;USA;False;False;3;2,7;92803;190237
+54;21/2/24;Uptown Girls;2003;Drama;92;False;USA;False;False;4;3,8;67997;34568
+54;21/2/24;Uptown Girls;2003;Comedy;92;False;USA;False;False;4;3,8;67997;34568
+55;22/2/24;Orphan;2009;Horror;123;False;Canada;False;False;5;3,3;88760;36363
+55;22/2/24;Orphan;2009;Horror;123;False;France;False;False;5;3,3;88760;36363
+55;22/2/24;Orphan;2009;Horror;123;False;Germany;False;False;5;3,3;88760;36363
+55;22/2/24;Orphan;2009;Horror;123;False;USA;False;False;5;3,3;88760;36363
+55;22/2/24;Orphan;2009;Mystery;123;False;Canada;False;False;5;3,3;88760;36363
+55;22/2/24;Orphan;2009;Mystery;123;False;France;False;False;5;3,3;88760;36363
+55;22/2/24;Orphan;2009;Mystery;123;False;Germany;False;False;5;3,3;88760;36363
+55;22/2/24;Orphan;2009;Mystery;123;False;USA;False;False;5;3,3;88760;36363
+55;22/2/24;Orphan;2009;Thriller;123;False;Canada;False;False;5;3,3;88760;36363
+55;22/2/24;Orphan;2009;Thriller;123;False;France;False;False;5;3,3;88760;36363
+55;22/2/24;Orphan;2009;Thriller;123;False;Germany;False;False;5;3,3;88760;36363
+55;22/2/24;Orphan;2009;Thriller;123;False;USA;False;False;5;3,3;88760;36363
+56;23/2/24;Bodies Bodies Bodies;2022;Mystery;95;True;USA;False;False;5;3,3;220333;240337
+56;23/2/24;Bodies Bodies Bodies;2022;Horror;95;True;USA;False;False;5;3,3;220333;240337
+56;23/2/24;Bodies Bodies Bodies;2022;Comedy;95;True;USA;False;False;5;3,3;220333;240337
+57;23/2/24;Step Up;2006;Romance;104;True;USA;False;False;4,5;3;23630;8670
+57;23/2/24;Step Up;2006;Crime;104;True;USA;False;False;4,5;3;23630;8670
+57;23/2/24;Step Up;2006;Drama;104;True;USA;False;False;4,5;3;23630;8670
+57;23/2/24;Step Up;2006;Music;104;True;USA;False;False;4,5;3;23630;8670
+58;25/2/24;Emma.;2020;Romance;124;True;UK;False;False;4,5;3,7;132620;73703
+58;25/2/24;Emma.;2020;Comedy;124;True;UK;False;False;4,5;3,7;132620;73703
+59;26/2/24;Get a Clue;2002;Comedy;84;True;USA;False;False;3;2,8;4085;2954
+59;26/2/24;Get a Clue;2002;Mystery;84;True;USA;False;False;3;2,8;4085;2954
+59;26/2/24;Get a Clue;2002;TV Movie;84;True;USA;False;False;3;2,8;4085;2954
+59;26/2/24;Get a Clue;2002;Family;84;True;USA;False;False;3;2,8;4085;2954
+60;27/2/24;When Evil Lurks;2023;Horror;99;False;Argentina;False;False;3,5;3,6;55437;51283
+60;27/2/24;When Evil Lurks;2023;Horror;99;False;USA;False;False;3,5;3,6;55437;51283
+60;27/2/24;When Evil Lurks;2023;Thriller;99;False;Argentina;False;False;3,5;3,6;55437;51283
+60;27/2/24;When Evil Lurks;2023;Thriller;99;False;USA;False;False;3,5;3,6;55437;51283
+61;28/2/24;X;2022;Mystery;105;False;USA;False;False;4,5;3,4;347018;261904
+61;28/2/24;X;2022;Thriller;105;False;USA;False;False;4,5;3,4;347018;261904
+61;28/2/24;X;2022;Horror;105;False;USA;False;False;4,5;3,4;347018;261904
+62;3/3/24;Ferrari;2023;History;130;False;UK;False;False;2;3,2;38195;56375
+62;3/3/24;Ferrari;2023;History;130;False;USA;False;False;2;3,2;38195;56375
+62;3/3/24;Ferrari;2023;Drama;130;False;UK;False;False;2;3,2;38195;56375
+62;3/3/24;Ferrari;2023;Drama;130;False;USA;False;False;2;3,2;38195;56375
+63;9/3/24;Knowing;2009;Mystery;121;False;UK;True;False;4;2,6;15242;9833
+63;9/3/24;Knowing;2009;Mystery;121;False;USA;True;False;4;2,6;15242;9833
+63;9/3/24;Knowing;2009;Mystery;121;False;Australia;True;False;4;2,6;15242;9833
+63;9/3/24;Knowing;2009;Science Fiction;121;False;UK;True;False;4;2,6;15242;9833
+63;9/3/24;Knowing;2009;Science Fiction;121;False;USA;True;False;4;2,6;15242;9833
+63;9/3/24;Knowing;2009;Science Fiction;121;False;Australia;True;False;4;2,6;15242;9833
+63;9/3/24;Knowing;2009;Thriller;121;False;UK;True;False;4;2,6;15242;9833
+63;9/3/24;Knowing;2009;Thriller;121;False;USA;True;False;4;2,6;15242;9833
+63;9/3/24;Knowing;2009;Thriller;121;False;Australia;True;False;4;2,6;15242;9833
+63;9/3/24;Knowing;2009;Action;121;False;UK;True;False;4;2,6;15242;9833
+63;9/3/24;Knowing;2009;Action;121;False;USA;True;False;4;2,6;15242;9833
+63;9/3/24;Knowing;2009;Action;121;False;Australia;True;False;4;2,6;15242;9833
+64;10/3/24;Past Lives;2023;Drama;116;True;South Korea;False;False;4,5;4,2;431135;320320
+64;10/3/24;Past Lives;2023;Drama;116;True;USA;False;False;4,5;4,2;431135;320320
+64;10/3/24;Past Lives;2023;Romance;116;True;South Korea;False;False;4,5;4,2;431135;320320
+64;10/3/24;Past Lives;2023;Romance;116;True;USA;False;False;4,5;4,2;431135;320320
+65;23/3/24;All of Us Strangers;2023;Romance;105;False;UK;False;False;5;4;150036;158559
+65;23/3/24;All of Us Strangers;2023;Romance;105;False;USA;False;False;5;4;150036;158559
+65;23/3/24;All of Us Strangers;2023;Drama;105;False;UK;False;False;5;4;150036;158559
+65;23/3/24;All of Us Strangers;2023;Drama;105;False;USA;False;False;5;4;150036;158559
+65;23/3/24;All of Us Strangers;2023;Fantasy;105;False;UK;False;False;5;4;150036;158559
+65;23/3/24;All of Us Strangers;2023;Fantasy;105;False;USA;False;False;5;4;150036;158559
+66;31/3/24;The Joy Luck Club;1993;Drama;139;False;USA;False;False;5;3,9;6372;3318
+66;31/3/24;The Joy Luck Club;1993;Drama;139;False;China;False;False;5;3,9;6372;3318
+67;1/4/24;One Life;2023;Drama;110;False;Australia;False;False;4;3,6;13926;13051
+67;1/4/24;One Life;2023;Drama;110;False;UK;False;False;4;3,6;13926;13051
+67;1/4/24;One Life;2023;Drama;110;False;USA;False;False;4;3,6;13926;13051
+67;1/4/24;One Life;2023;History;110;False;Australia;False;False;4;3,6;13926;13051
+67;1/4/24;One Life;2023;History;110;False;UK;False;False;4;3,6;13926;13051
+67;1/4/24;One Life;2023;History;110;False;USA;False;False;4;3,6;13926;13051
+67;1/4/24;One Life;2023;War;110;False;Australia;False;False;4;3,6;13926;13051
+67;1/4/24;One Life;2023;War;110;False;UK;False;False;4;3,6;13926;13051
+67;1/4/24;One Life;2023;War;110;False;USA;False;False;4;3,6;13926;13051
+68;1/4/24;The Deep End of the Ocean;1999;Mystery;106;False;USA;False;False;3;2,9;2909;3044
+68;1/4/24;The Deep End of the Ocean;1999;Drama;106;False;USA;False;False;3;2,9;2909;3044

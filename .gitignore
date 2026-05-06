@@ -1,0 +1,7 @@
+# === Tableau ===
+*.twb
+*_archivos/
+*.log
+
+# === Sistema (macOS) ===
+.DS_Store

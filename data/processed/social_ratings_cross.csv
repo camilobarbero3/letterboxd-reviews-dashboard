@@ -1,0 +1,42 @@
+﻿id;Nombre;Genre;Director;Running time (minutes);Review;Rating (1-5);Average Rating (1-5);Year;Type;Country;Rating Marti (1-5)
+69;Pampa Salvaje;Western;Hugo Fregonese;112;VERDADERO;3;3,3;1966;Movie;Argentina;2
+4;Whiplash;Drama;Damien Chazelle;105;VERDADERO;4,5;4,4;2014;Movie;United States;4,5
+70;Nope;Horror;Jordan Peele;130;FALSO;3;3,7;2022;Movie;United States;3
+71;The Thing;Horror;John Carpenter;109;VERDADERO;3,5;4,4;1982;Movie;United States;5
+72;Dune;Sci-Fi;Denis Villeneuve;156;VERDADERO;2,5;3,9;2021;Movie;United States;3,5
+73;Coco;Family;Lee Unkrich;105;VERDADERO;5;4,1;2017;Movie;United States;2
+74;Doctor Strange;Superhero;Scott Derrickson;115;VERDADERO;1;3,4;2016;Movie;United States;2
+75;Up;Adventure;Pete Docter;96;VERDADERO;4,5;4,1;2009;Movie;United States;4
+76;Gladiator;Historical Drama;Ridley Scott;155;VERDADERO;5;4,1;2000;Movie;United Kingdom;3,5
+77;Brave;Adventure;Mark Andrews;93;FALSO;3;3,3;2012;Movie;United States;4
+78;The Hobbit: An Unexpected Journey;Adventure;Peter Jackson;169;VERDADERO;3,5;3,5;2012;Movie;New Zealand;3
+79;The Empreror's New Groove;Comedy;Mark Dindal;78;VERDADERO;3;3,9;2000;Movie;United States;3,5
+80;The Polar Express;Family;Robert Zemeckis;100;VERDADERO;4;3,2;2004;Movie;United States;4,5
+81;Where The Wild Things Are;Adventure;Spike Jonze;101;VERDADERO;3;3,5;2009;Movie;Australia;3
+82;The Last Airbender;Action;M. Night Shyamalan;103;VERDADERO;0,5;1,1;2010;Movie;United States;0,5
+83;James and The Giant Peach;Adventure;Henry Selick;79;VERDADERO;4,5;3,3;1996;Movie;United States;3
+84;Dungeons & Dragons: Honor Among Thieves;Adventure;Jonathan Goldstein;134;VERDADERO;2;3,5;2023;Movie;Canada;0,5
+85;The Super Mario Bros. Movie;Adventure;Aaron Horvath;92;FALSO;3,5;3,3;2023;Movie;Japan;3,5
+86;Love After Music;Music;Gonzalo Tobal;336;FALSO;3;3,8;2023;Series;Argentina;3
+87;To Catch a Killer;Crime;Damián Szifron;119;FALSO;2,5;3,2;1992;Movie;Canada;3,5
+88;Elemental;Family;Peter Sohn;102;FALSO;2,5;3,3;2023;Movie;United States;2,5
+89;The Master;Drama;Paul Thomas Anderson;137;FALSO;3,5;4;2012;Movie;United States;4
+37;Barbie;Comedy;Greta Gerwig;110;FALSO;3;3,9;2023;Movie;United States;3
+90;The Banshees of Inisherin;Drama;Martin McDonagh;114;FALSO;5;4,1;2022;Movie;United Kingdom;4
+91;Talk to Me;Horror;Danny Philippou;90;FALSO;3,5;3,6;2023;Movie;United States;2,5
+61;X;Horror;Ti West;105;FALSO;2;3,4;2022;Movie;United States;3
+60;When Evil Lurks;Horror;Demián Rugna;99;FALSO;4;3,6;2023;Movie;Argentina;3,5
+92;Killers of the Flower Moon;Crime;Martin Scorsese;206;FALSO;4,5;4,1;2023;Movie;United States;4,5
+93;8 Mile;Music;Curtis Hanson;110;FALSO;5;3,6;2002;Movie;United States;4
+94;Five Nights at Freddy's;Horror;Emma Tammi;110;FALSO;1;2,6;2023;Movie;United States;1,5
+95;Volley;Comedy;Martín Piroyansky;95;FALSO;2,5;3,2;2014;Movie;Argentina;3
+96;Burn After Reading;Comedy;Joel Coen;96;FALSO;2,5;3,6;2008;Movie;United States;3
+97;The Holdovers;Drama;Alexander Payne;133;FALSO;4;4,2;2023;Movie;United States;5
+45;Society of the Snow;Drama;J.A. Bayona;144;FALSO;5;4,1;2023;Movie;Spain;3,5
+98;The Boy and the Heron;Fantasy;Hayao Miyazaki;124;FALSO;3;4;2023;Movie;Japan;3,5
+99;Mindcage;Crime;Mauro Borrelli;97;FALSO;0,5;1,9;2022;Movie;United States;0,5
+100;Argentina, 1985;Historical Drama;Santiago Mitre;141;FALSO;4;3,9;2022;Movie;Argentina;3,5
+101;The Conference;Historical Drama;Matti Geschonneck;107;VERDADERO;3;3,5;2023;Movie;Germany;2
+102;A Buenos Aires Ghost;Comedy;Guillermo Grillo;94;VERDADERO;4;3,5;2008;Movie;Argentina;3
+50;Perfect Days;Drama;Wim Wenders;124;FALSO;4;4,3;2023;Movie;Japan;5
+103;Zone of Interest;Historical Drama;Jonathan Glazer;105;FALSO;3,5;3,9;2023;Movie;Poland;3
