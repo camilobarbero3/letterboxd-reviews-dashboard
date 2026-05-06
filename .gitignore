@@ -4,4 +4,6 @@
 *.log
 
 # === Sistema (macOS) ===
-.DS_Store
+.DS_Store*archivos/
+*.twbr
+.~*
