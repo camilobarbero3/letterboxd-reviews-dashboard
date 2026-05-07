@@ -1,9 +1,9 @@
 # === Tableau ===
 *.twb
-*_archivos/
 *.log
-
-# === Sistema (macOS) ===
-.DS_Store*archivos/
+*archivos/
 *.twbr
 .~*
+
+# === Sistema (macOS) ===
+.DS_Store
