@@ -1,12 +1,12 @@
-# 🎬 Letterboxd Film Analysis & Social Connectivity Dashboard
-
-![Portada del Dashboard](imagenes/portada.png)
-
-🌍 [**Read in English**](#-english-version) \| 🌎 [**Leer en Español**](#-versión-en-español)
+[**Read in English**](#-english-version) \| [**Leer en Español**](#-versión-en-español)
 
 ------------------------------------------------------------------------
 
 ## 🇬🇧 English Version
+
+# 🎬 Letterboxd Film Analysis & Social Connectivity Dashboard
+
+![Dashboard Front Page](imagenes/portada.png)
 
 ### 📌 Overview
 
@@ -44,6 +44,10 @@ The User Experience (UX) is designed around a centralized interactive menu actin
 ------------------------------------------------------------------------
 
 ## 🇪🇸 Versión en Español
+
+# 🎬 Análisis de Películas en Letterboxd y Dashboard de Conectividad Social
+
+![Portada del Dashboard](imagenes/portada.png)
 
 ### 📌 Resumen
 
